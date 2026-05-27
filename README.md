@@ -3,6 +3,9 @@
 
 一個基於 **C# 7.3 與 WinForms (Windows Forms)** 開發的撲克牌神祕學占卜輕量小遊戲。本專案採用經典的「聖三角占卜法」，透過數位洗牌與翻牌儀式，誠實且犀利地為玩家剖析所求之事的過去、現在與未來走向，並結合 Windows 內建的經典音效，打造沉浸式的命運解讀體驗。
 
+<img width="951" height="858" alt="image" src="https://github.com/user-attachments/assets/c76e24fa-cbf5-47f8-8f0a-affbf51da395" />
+
+
 ---
 
 ## 🌟 核心特色
